@@ -5,4 +5,3 @@ Git tracks changes of files.
 Creating a new branch quick.
 master.&feature.edit.
 master.&feature.
-dev.
